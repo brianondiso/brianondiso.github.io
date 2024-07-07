@@ -18,7 +18,7 @@
 
 [![website](https://github.com/brianondiso/brianondiso/blob/main/assets/linkedin.svg)](https://www.linkedin.com/in/brianondiso/)
 &nbsp;&nbsp;
-[![website](https://github.com/brianondiso/brianondiso/blob/main/assets/x.svg)](https://x.com/mvpshoto))
+[![website](https://github.com/brianondiso/brianondiso/blob/main/assets/x.svg)](https://x.com/mvpshoto)
 &nbsp;&nbsp;
 
 ---
